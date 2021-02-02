@@ -24,3 +24,15 @@ On peut ainsi travailler en local avec VS code, ce qui est plus pratique que de 
 ## git pull
 
 Avec cette commande on va pouvoir récupérer le projet distant mis à jour dans notre dépot local.
+
+## git add
+
+Dans VScode on peut ajouter une nouvelle version d'un fichier à la zone de surveillance en cliquant sur le bouton + dans la section "contrôle de code source".
+
+## git commit
+
+Avec cette commande, on enregistre dans l'historique une nouvelle version de notre application. Dans VScode, dans la section "Contrôle de code source", on a une zone de saisie pour indiquer le message du commit (message le plus précis possible afin de retrouver facilement différentes versions du projet)
+
+## git push
+
+Afin de garder aussi ressemblant que possible le dépot local et le dépot distant, on va envoyer les modifications sur github avec la commande push.
